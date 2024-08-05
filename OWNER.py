@@ -6,14 +6,13 @@ from pyrogram import filters
 
 load_dotenv()
 
-OWNER = ["M_9_T"]
-OWNER_NAME = "𓏺 𝘾َِ𝘳- 𝙉َِ𝘰َِ𝙐َِ𝘳 Ꮠ͋͢➢𝙀َِ𝘭َِ𝙃َِ𝘢َِ𝙆َِ𝘦َِ𝙈⤸"
-BOT_TOKEN = getenv("7327600929:AAF3E7EXyjnlmRlzBUvTu3NSWZcwEo66uC0")
-DATABASE = getenv("mongodb+srv://veez:mega@cluster0.heqnd.mongodb.net/veez?retryWrites=true&w=majority")
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-CHANNEL = "https://t.me/sourceav"
-GROUP = "https://t.me/va_source"
-VID_SO = "https://telegra.ph/file/4fda78aaf200bf313be62.jpg"
-PHOTO = "https://telegra.ph/file/4fda78aaf200bf313be62.jpg"
-LOGS = "M_9_T"
+OWNER = ["H_8_o", "H_8_o"]
+OWNER_NAME = "𝐋𝐄𝐀𝐃𝐄𝐑 𝐒𝐀𝐃𝐃𝐀𝐌 𝐇𝐔𝐒𝐒𝐄𝐈𝐍⤸"
+BOT_TOKEN = "6711048210:AAGeTTCLCXyBmcgcgC264YPkmI5g5xBJSnQ"
+DATABASE = "mongodb+srv://vv1vbvg:tahLdAddP2xj6R5b@cluster0.4xpikbs.mongodb.net"
+CHANNEL = "https://t.me/A1DIIU"
+GROUP = "https://t.me/SUPERXFAST"
+VIDEO = "https://t.me/H_8_ov/10"
+LOGS = "H_8_o"
+PHOTO = "https://telegra.ph/file/75737308889fade2c982a.jpg"
+LOGS = "H_8_o"
